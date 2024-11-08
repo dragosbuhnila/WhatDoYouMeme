@@ -1,0 +1,31 @@
+.navbar {
+    background-color: #3d6eb8 !important;
+    padding-left: 30px !important;
+}
+
+.brand {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 22px;
+    color: white; 
+    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+    text-decoration: none;
+}
+
+.userInfo {
+    margin-right: 30px;
+    font-size: 15px;
+}
+
+.logoutBtn {
+    margin-left: 10px;
+    font-size: 14px;
+}
+
+.bi-person-circle {
+    font-size: 22px;
+}
+
+.login-profile-col {
+    padding-right: 30px;
+}

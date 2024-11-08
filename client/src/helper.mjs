@@ -1,0 +1,1 @@
+export const appname = "What Do You Meme ?"

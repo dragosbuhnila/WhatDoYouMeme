@@ -1,0 +1,16 @@
+.footer {
+    background-color: #3d6eb8;
+    padding-left: 30px;
+    
+    left: 0;
+    bottom: 0;
+    width: 100%;
+
+    display: flex;
+}
+
+.footerText {
+    font-size: 16px;
+    color: white;
+
+}

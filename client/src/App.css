@@ -1,0 +1,11 @@
+.main-content {
+    flex: 1; /* Allows this element to grow and fill available space, pushing the footer down */
+}
+
+html {
+    height: 100%;
+}
+
+body {
+    background-color: #333;
+}
